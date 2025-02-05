@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am <b>Muskan Mujavar</b>, an aspiring <b>Software Developer</b> with a keen interest in innovation and problem-solving.
 
-- 🔭 currently I'm a Student pursuing MCA (Master's in Computer Applications).
+- 🔭 currently a Student pursuing MCA (Master's in Computer Applications).
 - 🌱 Passionate about <b>Programming</b> and <b>Emerging Technologies</b>.
 - 🎯 Looking forward to Developing real-world solutions that make a difference.
 - 💡 Built various <b>projects</b> to showcase my <b>skillset</b> & <b>creativity</b>.

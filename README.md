@@ -10,7 +10,7 @@ I am <b>Muskan Mujavar</b>, an aspiring <b>Software Developer</b> with a keen in
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muskan-mujavar-73b948337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan-mujavar-73b948337" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/muskanmjvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/muskanmjvr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/muskanmjvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/muskanmjvr" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

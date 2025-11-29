@@ -1,11 +1,12 @@
 ## Hi there 👋
-I am <b>Muskan Mujavar</b>, an aspiring <b>Software Developer</b> with a keen interest in innovation and problem-solving.
+I’m **Muskan Mujavar**, an aspiring **Software Developer** driven by curiosity, innovation, and a passion for building meaningful technology.
 
-- 🔭 MCA graduate
-- 🌱 Passionate about <b>Programming</b> and <b>Emerging Technologies</b>.
-- 🎯 Looking forward to Developing real-world solutions that make a difference.
-- 💡 Built various <b>projects</b> to showcase my <b>skillset</b> & <b>creativity</b>.
-- ⚡ Fun fact: I started coding to see if i could do it, and now it's a full-on <b>passion!</b>
+- 🎓 MCA Graduate  
+- 💻 Enthusiastic about **Programming**, **Software Development**, and **Emerging Technologies**  
+- 🎯 Committed to developing real-world, impactful solutions  
+- 🛠️ Have built multiple **projects** that reflect my skills, creativity, and continuous learning  
+- ⚡ Fun fact: I started coding just to explore something new—now it has become a genuine **passion**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

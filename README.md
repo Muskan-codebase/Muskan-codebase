@@ -21,4 +21,4 @@ I’m **Muskan Mujavar**, an aspiring **Software Developer** driven by curiosity
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muskan-codebase&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muskan-codebase&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-codebase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
